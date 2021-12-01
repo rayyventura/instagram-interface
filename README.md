@@ -1,4 +1,4 @@
-## Interface Instagram
+## Instagram Interface 
 Site Published at: https://rayyventura.github.io/Interface_Instagram/
 
 Static interface of Instagram </br>
