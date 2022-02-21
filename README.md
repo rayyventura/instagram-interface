@@ -1,5 +1,5 @@
 # Instagram  
-Site Published at: https://rayyventura.github.io/Interface_-Instagram-/
+Site Published at: https://rayyventura.github.io/instagram-interface/
 
 ## Static Interface of Instagram </br>
 🎯 Target: **HTML** and **CSS** (**@media** and **Responsive** Layout)</br>
